@@ -1,0 +1,59 @@
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+        }
+
+        .card-header {
+            background-color: #007bff;
+            color: #ff;
+            text-align: center;
+            font-size: 24px;
+        }
+
+        .table th,
+        .table td {
+            text-align: center;
+        }
+
+        .table th {
+            font-weight: bold;
+        }
+
+        .bg-info {
+            background-color: #17a2b8 !important;
+            color: #fff;
+        }
+
+        .event {
+            background-color: #ffc107;
+            padding: 2px;
+            border-radius: 3px;
+        }
+
+        .form-inline label {
+            margin-right: 10px;
+        }
+
+        .form-inline input {
+            margin-right: 10px;
+        }
+
+        .btn-outline-primary:hover {
+            color: #fff;
+            background-color: #0069d9;
+            border-color: #0062cc;
+        }
+
+        .btn-outline-primary:active {
+            color: #fff;
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+    </style>
